@@ -1,0 +1,1 @@
+#### Just a simple logger to practice interfaces and functional programming in Golang :)
